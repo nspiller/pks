@@ -5,5 +5,5 @@ introduced vibronic coupling in the Heisenberg double exchange model.
 Fe dimers with intermediate spin states.
 
 This repo contains a single Jupyter notebook, which includes the PKS energy expression.
-It can be opened interactively on mybinder.org to explore the interplay between the parameters 
+It can be opened interactively with [binder](https://mybinder.org/v2/gh/nspiller/pks/HEAD?labpath=PKS.ipynb) to explore the interplay between the parameters 
 J, B, and lambda^2/k.
